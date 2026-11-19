@@ -1,5 +1,8 @@
 # daun_hr
 
+> **Development only / Phase 0 governance.** Feature development remains on hold. Current web auto-deploy is owner-authorized development, even if the domain looks production-like. No real employee data or production release until approved. See [AGENTS.md](AGENTS.md) and [central roadmap](https://github.com/Hisyam-Dzaki/Hris-BE/pull/1).
+
+
 A new Flutter project.
 
 ## Getting Started
@@ -15,3 +18,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Daun HR scope
+Flutter scaffold: BLoC, Dio and GetIt dependencies declared; tracked Dart source not found at audited main commit. No build or working features claimed. Development uses synthetic data and explicit dev API URL. Future production requires separate configuration, OS-backed credential storage, TLS, backend tenant authorization and verified release builds.
